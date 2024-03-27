@@ -1,10 +1,10 @@
-import koneksi.Database;
+
 
 package koneksi;
 
 public class Database{
  public static void hubungkan(){
-  System.out,println("Database Terhubung..");
-  Database.hubungkan();
+  System.out.println("Database Terhubung..");
+  
  }
 }
